@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pandreaszjan
 - 👀 I’m interested in JS coding.
-- 🌱 I’m currently learning JS, HTML, CSS, NODE.JS, EXPRESS and many more which comes up on the way.
+- 🌱 I’m currently learning React and many more which comes up on the way.
 - 📫 Reach me on FB or on my email.
 
 <!---
