@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @pandreaszjan
-- 👀 I’m interested in JS coding.
-- 🌱 I’m currently learning React and many more which comes up on the way.
-- 📫 Reach me on FB or on my email.
+## 👋 Hello! I'm @pandreaszjan
 
-<!---
-pandreaszjan/pandreaszjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 To be web developer with a growing passion for front-end and full-stack technologies  
+- 🔧 Working with JavaScript and PHP, and exploring modern frameworks like **Astro**, **React**, and **Laravel**  
+- 🎨 Styling with **Tailwind CSS**, managing data with **MySQL**, and building fast with **Vite**  
+- 🌱 Continuously learning and leveling up my skills as new challenges come along  
+- 📬 Reach out via Facebook or email — always happy to connect and collaborate!
